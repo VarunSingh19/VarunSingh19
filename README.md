@@ -6,8 +6,10 @@
 -DM ME ON insta @varunsingh_cr7
 
 MY SKILLS
-1.HTML
+1.HTML 
+
 2.CSS
+
 3.JS
 4.MYsql
 5.A-FRAME
