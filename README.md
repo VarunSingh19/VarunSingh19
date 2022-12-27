@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning python advance
 - 💞️ I’m looking to collaborate on projects based on web and server based
 - 📫 How to reach me ?
-
--DM ON insta @varunsingh_cr7
+DM ON insta @varunsingh_cr7
 
 MY SKILLS
 1.HTML 
