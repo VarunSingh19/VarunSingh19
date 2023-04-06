@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, php ,WebDev, ChatGPT, etc**
 
-- 📫 How to reach me **varunsingh@18@icloud.com**
+- 📫 How to reach me **varunsingh18@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
