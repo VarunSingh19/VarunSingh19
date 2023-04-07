@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Singh</h1>
 
-'''Python
-Contact():
-    if(Info==NULL){
-    print('User Have No Contacts')
-   }else{
-    print('Contact Is Uploading to your local machine')
-   }
-'''
+
 <h3 align="center">A passionate tech Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunsingh19&label=Profile%20views&color=0e75b6&style=flat" alt="varunsingh19" /> </p>
