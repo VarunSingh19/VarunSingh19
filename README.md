@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Typescript, ModernJS ,etc**
 
-- 👨‍💻 All of my projects are available at [https://dev-varunsingh.pantheonsite.io/](https://dev-varunsingh.pantheonsite.io/)
+- 👨‍💻 All of my projects are available at [https://varunsingh19.github.io/RightRouteProject/](https://varunsingh19.github.io/RightRouteProject/)
 
 - 📝 I weekly write articles on [https://medium.com/@shortchannel00017/getting-started-with-dsa-87d88b37ef6d](https://medium.com/@shortchannel00017/getting-started-with-dsa-87d88b37ef6d)
 
