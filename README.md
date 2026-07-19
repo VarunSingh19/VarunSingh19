@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=220&section=header&text=Varun%20Singh&fontSize=60&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Building%20Production-Grade%20Systems&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=220&section=header&text=Varun%20Singh&fontSize=60&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%20Engineer%20%7C%20Building%20Production-Grade%20Systems&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://linkedin.com/in/varun-singh-80b719249">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
