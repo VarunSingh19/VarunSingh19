@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Architecting+scalable+full-stack+systems;RAG+%2B+AI+pipelines+%7C+DICOM+%2F+PACS+%2F+Medical+Imaging;Next.js+%C2%B7+NestJS+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Co-founder+%40+VA+Softwares;Currently+shipping%3A+Armorray%2C+BlackWall%2C+Pitchr+AI&font=Fira+Code&center=true&width=800&height=50&color=00D9FF&vCenter=true&size=22&pause=1200"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Architecting+scalable+full-stack+systems;RAG+%2B+AI+pipelines+%7C+DICOM+%2F+PACS+%2F+Medical+Imaging;Next.js+%C2%B7+NestJS+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Co-founder+%40+Primus+Softwares;Currently+shipping%3A+Armorray%2C+BlackWall%2C+Pitchr+AI&font=Fira+Code&center=true&width=800&height=50&color=00D9FF&vCenter=true&size=22&pause=1200"/>
 
 </div>
 
