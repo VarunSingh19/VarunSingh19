@@ -27,7 +27,7 @@ whoami:
   name: "Varun Singh"
   role: "Full Stack Developer @ Zap Solutionz"
   base: "Mumbai, India"
-  cofounder: "VA Softwares — product engineering studio"
+  cofounder: "Primus Software — premium design-first tech studio"
   focus: ["Full-Stack Architecture", "AI/RAG Systems", "Medical Imaging (DICOM/PACS)", "Security Tooling"]
   currently_building: ["Armorray (radiology SaaS)", "BlackWall (security orchestration)", "Pitchr AI (cold outreach SaaS)"]
   fun_fact: "300+ DSA problems solved, still counting"
